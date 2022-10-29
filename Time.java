@@ -3,6 +3,8 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//hellllllooooooooo
+
 public class Time {
     String t;
     Scanner sc = new Scanner(System.in);

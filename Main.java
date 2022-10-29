@@ -9,7 +9,7 @@ import com.company.OutputData;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// wbnrsdnmsc
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Time Slots");
         Time time = new Time();
