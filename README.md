@@ -6,8 +6,4 @@ SUPERVISOR: Dr. B. S. Daga
 
 Team Members:
 
-Hudah Ansari 
-
-Shreya Palande 
-
-Manasvi Patil 
+Hudah Ansari, Shreya Palande, Manasvi Patil 
